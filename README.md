@@ -14,7 +14,7 @@
 
 [this is my github address](https://github.com/JeongDaeHeon/test2.git)
 
-``` javascript
+``` c
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
