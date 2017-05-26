@@ -18,3 +18,7 @@
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
+|table		|Are		|cool	|
+|---------------|:--------------|------:|
+|col 3 is	|right-aligned	|$1600	|
